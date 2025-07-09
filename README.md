@@ -1,1 +1,1 @@
-# masked-generative-modeling-indoor-scenes
+# SceneNAT
